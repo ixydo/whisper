@@ -1,3 +1,4 @@
+whisper
 wheel
 six
 fadvise==4.0.0
